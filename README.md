@@ -1,2 +1,2 @@
 # VUnit-nix-blinky
-Verification of a blinky using VUnit and Nix.
+Build and verification of a blinky in VHDL using Nix, nvc and VUnit.
